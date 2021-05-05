@@ -1,4 +1,4 @@
-#ModelSwitching
+# ModelSwitching
 
 This code repository contains code used to generate results in this paper --
 
